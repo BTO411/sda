@@ -437,7 +437,7 @@ button {
 -------------------------------------------------------------------------------------------------- */
 
 #sidebar-wrapper {
-	height: 80%;
+	height: 60%;
 	padding-top: 10px;
 	padding-right: 0;
 	padding-left: 0;
@@ -499,7 +499,7 @@ button {
 
     margin-top: 20px;
 
-    background-color: #f6f6f6;
+    background-color: #ffffff;
 
 }
 
@@ -580,7 +580,7 @@ button {
 
     font-weight: bold;
 
-    background-color: #f0f0f0;
+    background-color: #FFFFFF;
 
     border-bottom: 3px solid #ccc;
 
@@ -671,7 +671,7 @@ button {
 
     font-weight: bold;
 
-    background-color: #f0f0f0;
+    background-color: #ffffff;
 
     border-bottom: 3px solid #ccc;
 
