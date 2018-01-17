@@ -290,7 +290,7 @@ button {
 
     width: 100%;
 
-    background: #ee6363;
+    background: #008080;
 
     opacity: 0.93;
 
@@ -568,7 +568,7 @@ button {
 	padding-right: 0px;
 	padding-left: 0px;
 	padding-bottom: 0px;
-	min-height: 250px;
+	min-height: 0px;
 }
 
 
