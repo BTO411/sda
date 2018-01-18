@@ -1,0 +1,2 @@
+Orange Bir veri görselleþtirme aracýdýr. Veri görselleþtirmek ne demek peki ?
+Örneðin bir araþtýrma sonucunu size yazýlý olarak versek mi daha dikkatinizi çeker yoksa renkli, grafiksel ve yazýdan çok görselin olduðu bir biçimde mi? Biz görseli tercih edersiniz diye düþündük ve aþaðýda sizlere bazý verileri görselleþtirilmiþ halde sunduk, açýkladýk. Orange Canvas ise bunu yaparken kullandýðýmýz bir programdýr.
