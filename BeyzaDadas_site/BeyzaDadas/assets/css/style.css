@@ -152,7 +152,7 @@ button {
 
 
 
-/* bar Css
+/* Navbar Css
 
 -------------------------------------------------------------------------------------------------- */
 
@@ -204,12 +204,13 @@ button {
 .navbar-inverse .navbar-nav > li > a {
 
     color: #fff;
-	
+
 }
 
 .navbar-right {
 
     line-height: 50px;
+
     padding-right: 20px;
 
 }
@@ -560,6 +561,30 @@ button {
 }
 
 
+
+
+.card-block {
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-left: 0px;
+	padding-bottom: 0px;
+	min-height: 250px;
+}
+
+
+
+.card-footer {
+
+    color: #555;
+
+    font-weight: bold;
+
+    background-color: #FFFFFF;
+
+    border-bottom: 3px solid #ccc;
+
+}
+
 .card-footer p {
 
     margin: 6px;
@@ -587,6 +612,12 @@ button {
 
 
 /*  More Posts Hidden Css */
+
+
+
+
+
+
 
 
 
@@ -862,14 +893,14 @@ footer {
 }
 
 
+
 footer h5 {
 
     color: #fff;
-	
-    text-align: center;
-	
+	text-align: center;
+
     font-weight: bold;
-	
+
     font-family: 'Open Sans', sans-serif;
 
 }
